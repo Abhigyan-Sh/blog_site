@@ -1,0 +1,13 @@
+@media only screen and (max-width: 1140px){
+    .box-main{flex-direction: column-reverse;max-width: 100%;}
+    .nav-list{flex-direction: column;}
+    .navbar{height: 477px;flex-direction: column;transition: all .8s ease-out;}
+    .rightNav{text-align: center;}
+    .search{width: 100%;}
+    .burger{display: block;}
+    .h-nav{height: 72px;}
+    .v-class{opacity: 0;}
+    .section{flex-direction: column-reverse;}
+    .paras{padding: 0 0 50px 0;}
+    /* harry did this AND ALSO CHANGE IN LINE NO.138 */
+}
